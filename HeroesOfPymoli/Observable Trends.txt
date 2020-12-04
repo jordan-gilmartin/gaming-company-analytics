@@ -1,0 +1,9 @@
+Observable Trends
+
+-It looks like just about 85% of the Gender is Male.  
+-More than half of the total sample are between the ages of 20 to 30 years old.  
+-They are also the ones doing most of the buying, in particular the 20-24 age group.  
+-Interestingly though the Avg Total Purchase per Person is higher for the <10 age group and the
+35-39 age group likely due to larger discretionary income of the parent / adult.  This winds up leading
+to higher margins so definitely want to focus on pitching them.  
+
