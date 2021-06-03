@@ -1,5 +1,6 @@
-# pandas-challenge
+# gaming-company-analytics
 
+![Fantasy](Images/Fantasy.png)
 
 In this exercise I am working as a Lead Analyst for an independent gaming company. I've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
@@ -65,5 +66,4 @@ Most Profitable Items
         Purchase Count
         Item Price
         Total Purchase Value
-
 
